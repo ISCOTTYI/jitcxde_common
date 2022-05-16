@@ -1,3 +1,5 @@
+UPDATED FOR M1 MACS
+
 JiTCxDE Common is a collection common code for
 `JiTCODE <http://github.com/neurophysik/jitcode>`_,
 `JiTCDDE <http://github.com/neurophysik/jitcdde>`_, and

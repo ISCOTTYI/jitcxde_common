@@ -26,7 +26,8 @@ DEFAULT_COMPILE_ARGS = [
 		"-std=c11",
 		"-Ofast",
 		"-g0",
-		"-march=native",
+		# "-march=native",
+        "-mcpu=apple-m1",
 		"-mtune=native",
 		"-Wno-unknown-pragmas",
 	]
